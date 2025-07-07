@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            sample
+        </title>
+    </head>
+    <body>welcome to html lab</body>
+</html>
